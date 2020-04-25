@@ -1,4 +1,4 @@
-def testandoumavez1():
+def primary():
   print("Hello World")
 
   #f = open("quotes.txt")
@@ -8,4 +8,4 @@ def testandoumavez1():
   #print(quotes)
 
 if __name__== "__main__":
-  testandoumavez1()
+  primary()
