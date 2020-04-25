@@ -1,4 +1,4 @@
-def testandoumavez():
+def testandoumavez1():
   print("Keep it logically awesome.")
 
   #f = open("quotes.txt")
@@ -8,4 +8,4 @@ def testandoumavez():
   #print(quotes)
 
 if __name__== "__main__":
-  testandoumavez()
+  testandoumavez1()
